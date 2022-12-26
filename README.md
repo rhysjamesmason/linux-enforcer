@@ -1,2 +1,1 @@
-# linux-enforc
-A repository that has a checklist on what to do to secure and harden your Linux systems.
+![](https://raw.githubusercontent.com/rhysjamesmason/linux-enforcer/main/data/images/Linux%20Enforcer.png)
